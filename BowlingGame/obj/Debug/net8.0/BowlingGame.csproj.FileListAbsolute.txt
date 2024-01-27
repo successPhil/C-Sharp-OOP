@@ -1,0 +1,14 @@
+/Users/phil/code/csharp-ttd/BowlingGame/obj/Debug/net8.0/BowlingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phil/code/csharp-ttd/BowlingGame/obj/Debug/net8.0/BowlingGame.AssemblyInfoInputs.cache
+/Users/phil/code/csharp-ttd/BowlingGame/obj/Debug/net8.0/BowlingGame.AssemblyInfo.cs
+/Users/phil/code/csharp-ttd/BowlingGame/obj/Debug/net8.0/BowlingGame.csproj.CoreCompileInputs.cache
+/Users/phil/code/csharp-ttd/BowlingGame/bin/Debug/net8.0/BowlingGame
+/Users/phil/code/csharp-ttd/BowlingGame/bin/Debug/net8.0/BowlingGame.deps.json
+/Users/phil/code/csharp-ttd/BowlingGame/bin/Debug/net8.0/BowlingGame.runtimeconfig.json
+/Users/phil/code/csharp-ttd/BowlingGame/bin/Debug/net8.0/BowlingGame.dll
+/Users/phil/code/csharp-ttd/BowlingGame/bin/Debug/net8.0/BowlingGame.pdb
+/Users/phil/code/csharp-ttd/BowlingGame/obj/Debug/net8.0/BowlingGame.dll
+/Users/phil/code/csharp-ttd/BowlingGame/obj/Debug/net8.0/refint/BowlingGame.dll
+/Users/phil/code/csharp-ttd/BowlingGame/obj/Debug/net8.0/BowlingGame.pdb
+/Users/phil/code/csharp-ttd/BowlingGame/obj/Debug/net8.0/BowlingGame.genruntimeconfig.cache
+/Users/phil/code/csharp-ttd/BowlingGame/obj/Debug/net8.0/ref/BowlingGame.dll
