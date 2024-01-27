@@ -12,3 +12,4 @@
 /Users/phil/code/csharp-ttd/BowlingGame/obj/Debug/net8.0/BowlingGame.pdb
 /Users/phil/code/csharp-ttd/BowlingGame/obj/Debug/net8.0/BowlingGame.genruntimeconfig.cache
 /Users/phil/code/csharp-ttd/BowlingGame/obj/Debug/net8.0/ref/BowlingGame.dll
+/Users/phil/code/csharp-ttd/BowlingGame/obj/Debug/net8.0/BowlingGame.sourcelink.json
