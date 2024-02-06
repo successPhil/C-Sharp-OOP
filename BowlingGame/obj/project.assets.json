@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/phil/.nuget/packages/": {}
+    "/Users/kennethbonnette/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/phil/code/csharp-ttd/BowlingGame/BowlingGame.csproj",
+      "projectUniqueName": "/Users/kennethbonnette/Desktop/C-Sharp-OOP/BowlingGame/BowlingGame.csproj",
       "projectName": "BowlingGame",
-      "projectPath": "/Users/phil/code/csharp-ttd/BowlingGame/BowlingGame.csproj",
-      "packagesPath": "/Users/phil/.nuget/packages/",
-      "outputPath": "/Users/phil/code/csharp-ttd/BowlingGame/obj/",
+      "projectPath": "/Users/kennethbonnette/Desktop/C-Sharp-OOP/BowlingGame/BowlingGame.csproj",
+      "packagesPath": "/Users/kennethbonnette/.nuget/packages/",
+      "outputPath": "/Users/kennethbonnette/Desktop/C-Sharp-OOP/BowlingGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/phil/.nuget/NuGet/NuGet.Config"
+        "/Users/kennethbonnette/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

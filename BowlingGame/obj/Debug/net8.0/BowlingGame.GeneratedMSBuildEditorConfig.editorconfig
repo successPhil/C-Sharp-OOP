@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BowlingGame
-build_property.ProjectDir = /Users/phil/code/csharp-ttd/BowlingGame/
+build_property.ProjectDir = /Users/kennethbonnette/Desktop/C-Sharp-OOP/BowlingGame/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

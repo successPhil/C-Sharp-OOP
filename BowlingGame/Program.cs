@@ -6,6 +6,7 @@ namespace BowlingGameNS
 {
     public class BowlingGame
     {
+       
         public int score { get; private set; }
         public int frame {get; private set;}
 
@@ -15,6 +16,7 @@ namespace BowlingGameNS
 
         public BowlingGame()
         {
+           
             score = 0;
             frame = 1;
             pins = 10;
@@ -23,11 +25,7 @@ namespace BowlingGameNS
         public void Roll()
         {   
             //If turns == 0 Reset pins to 10 and increase frame by 1 and reset turns to two
-            if (turns == 0) {
-                pins = 10;
-                frame += 1;
-                turns = 2;
-            }
+
 
 
             //If pins == 0 Reset pins to 10 and increase frame by 1** depending on spare/strike logic
@@ -38,6 +36,12 @@ namespace BowlingGameNS
             pins -= randomRoll;
             score += randomRoll;
             turns -= 1;
+
+            if (turns == 0) {
+                pins = 10;
+                frame += 1;
+                turns = 2;
+            }
             
         }
 
@@ -56,6 +60,8 @@ namespace BowlingGameNS
             game.Roll();
             Console.WriteLine(game.score);
         }
+
+
     }
 }
 

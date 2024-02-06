@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BowlingTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eeb77cb5aed060aad420ee1d03704a5b3aefd5db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38cea3d7ba2e98a92e57958f164855df180469c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BowlingTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BowlingTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
